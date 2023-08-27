@@ -1,6 +1,6 @@
 # Windows Limpio y Optimizado
 
-Mantener limpio y optimizado tu sistema operativo Windows es crucial para asegurar un rendimiento óptimo y prevenir problemas a largo plazo. Esta guía te proporciona una lista detallada de comandos y acciones que puedes llevar a cabo para mantener tu sistema en condiciones ideales:
+Mantener limpio y optimizado tu sistema operativo Windows es crucial para asegurar un rendimiento óptimo y prevenir problemas a largo plazo.
 
 1. **Liberar espacio en disco:**
    - `cleanmgr`: Abre el Asistente para liberar espacio en disco, permitiéndote eliminar archivos temporales, cachés y otros elementos innecesarios.
