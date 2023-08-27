@@ -30,7 +30,7 @@ Mantener limpio y optimizado tu sistema operativo Windows es crucial para asegur
    - Manualmente, puedes eliminar archivos temporales y cachés navegando a la carpeta %temp% y eliminando su contenido.
 
 10. **Mantener actualizados los controladores:**
-    - Asegúrate de tener los controladores de hardware actualizados para lograr un rendimiento y estabilidad óptimos. Puedes hacerlo desde el Administrador de Dispositivos o usando herramientas de actualización de controladores.
+    - Asegúrate de tener los controladores de hardware actualizados para lograr un rendimiento y estabilidad óptimos. 
 
 11. **Restaurar sistema:**
     - `rstrui`: Abre la herramienta de restauración del sistema, permitiéndote revertir el sistema a un estado anterior en caso de problemas.
